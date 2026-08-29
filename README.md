@@ -6,6 +6,8 @@ Browser extension for [FACEIT](https://www.faceit.com) — ELO analytics, win pr
 
 > Unofficial extension. Not affiliated with or endorsed by FACEIT Ltd.
 
+**Repository:** https://github.com/ProtheticGlitch/elosight-extension
+
 ## Features
 
 ### Match room
